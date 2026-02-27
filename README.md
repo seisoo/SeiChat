@@ -13,6 +13,7 @@
 - **Voice channels**
   - Voice with optional **webcam**
   - **Screen sharing**
+  - 3D spartial audio (move the clients around to hear them from specific direction at a certain volume)
 
 - **Text channels**
   - Channel **banners**
